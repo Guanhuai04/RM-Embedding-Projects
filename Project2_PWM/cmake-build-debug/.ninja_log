@@ -8,7 +8,7 @@
 4	149	1727945986708137573	CMakeFiles/Project2_PWM.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	8a0b6983550e7a99
 137	369	1727946012838559668	CMakeFiles/Project2_PWM.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	a1125e66156044c1
 2	147	1727946012615547520	CMakeFiles/Project2_PWM.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	3b4fa0fac4e04d24
-0	43	1727974039955846225	build.ninja	943f25ea59c998b8
+0	43	1728453004875624238	build.ninja	943f25ea59c998b8
 2	121	1727946012589546103	CMakeFiles/Project2_PWM.elf.dir/Core/Src/usart.c.obj	e5c0b498453b57c7
 1	39	1727941427531604012	CMakeFiles/Project2_PWM.elf.dir/Core/Src/sysmem.c.obj	bb48ab0ad36bd06f
 108	296	1727945986854145511	CMakeFiles/Project2_PWM.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	3f4881e3336f7618
