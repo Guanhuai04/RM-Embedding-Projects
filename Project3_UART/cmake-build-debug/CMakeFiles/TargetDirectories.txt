@@ -1,3 +1,0 @@
-/home/guanhuai/Desktop/Robomaster/Embedding/Course/Project3_UART/cmake-build-debug/CMakeFiles/Project3_UART.elf.dir
-/home/guanhuai/Desktop/Robomaster/Embedding/Course/Project3_UART/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/guanhuai/Desktop/Robomaster/Embedding/Course/Project3_UART/cmake-build-debug/CMakeFiles/rebuild_cache.dir

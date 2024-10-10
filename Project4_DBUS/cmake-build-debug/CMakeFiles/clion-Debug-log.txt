@@ -1,5 +1,0 @@
-/home/guanhuai/clion-2023.3.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/guanhuai/clion-2023.3.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/guanhuai/Desktop/Robomaster/Embedding/Course/Project4_DBUS -B /home/guanhuai/Desktop/Robomaster/Embedding/Course/Project4_DBUS/cmake-build-debug
--- Minimal optimization, debug info included
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /home/guanhuai/Desktop/Robomaster/Embedding/Course/Project4_DBUS/cmake-build-debug
