@@ -51,7 +51,6 @@ void sendLEDData(uint8_t data) {
 
     // 将消息添加到发送邮箱
     if (HAL_CAN_AddTxMessage(&hcan1, &TxHeader, TxData, &TxMailbox) != HAL_OK) {
-        // 错误处理
         Error_Handler();
     }
 }
